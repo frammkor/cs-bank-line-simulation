@@ -1,16 +1,25 @@
-using System;
+/* 
+Franco Cespi
+CS-1415 Lab 11: BankSimulation
+Started: 22/11/2021
+A representation of a class that does not represent reality
+*/
 
 namespace bank_simulation
 {
-    public interface CustomerStreamDeterministic
+    public class CustomerStreamDeterministic : ICustomerStream
     {
-        double TimeTillNext { get; protected set; }
+        public double TimeTillNext { get; private set; }
+        public CustomerStreamDeterministic()
+        {
+            TimeTillNext = 0;
+        }
 
-        void Wait(double minutesPass)
+        public void Wait(double minutesPass)
         {
             TimeTillNext = TimeTillNext - minutesPass;
         }
-        Customer Next()
+        public Customer Next()
         {
             TimeTillNext = 5;
             return new Customer(10);

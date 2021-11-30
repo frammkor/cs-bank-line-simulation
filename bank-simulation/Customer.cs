@@ -1,4 +1,9 @@
-﻿using System;
+﻿/* 
+Franco Cespi
+CS-1415 Lab 11: BankSimulation
+Started: 22/11/2021
+A customer
+*/
 
 namespace bank_simulation
 {

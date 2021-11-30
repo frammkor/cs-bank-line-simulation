@@ -1,3 +1,10 @@
+/* 
+Franco Cespi
+CS-1415 Lab 11: BankSimulation
+Started: 22/11/2021
+A class that represents the bank employees helping the customers
+*/
+
 using System;
 using System.Collections.Generic;
 

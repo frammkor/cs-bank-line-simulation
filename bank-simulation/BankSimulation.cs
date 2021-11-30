@@ -1,3 +1,10 @@
+/* 
+Franco Cespi
+CS-1415 Lab 11: BankSimulation
+Started: 22/11/2021
+The main simulation
+*/
+
 using System;
 using System.Collections.Generic;
 
@@ -5,11 +12,11 @@ namespace bank_simulation
 {
     public class BankSimulation
     {
-        ICustomerStream CustomerStream;
-        TellerPool Tellers;
-        double TimeLeftToClose;
-        Logger BankLogger;
-        Queue<Customer> CustomersLine;
+        private ICustomerStream CustomerStream;
+        private TellerPool Tellers;
+        private double TimeLeftToClose;
+        public Logger BankLogger;
+        private Queue<Customer> CustomersLine;
         public BankSimulation(ICustomerStream customerStream, int numberOfTellers, double workingTime, Logger bankLog)
         {
             CustomerStream = customerStream;
