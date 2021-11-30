@@ -1,0 +1,12 @@
+/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1415 - OOP Lab /Lab11-bank-simulation/bank-simulation/bin/Debug/net5.0/bank-simulation.deps.json
+/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1415 - OOP Lab /Lab11-bank-simulation/bank-simulation/bin/Debug/net5.0/bank-simulation.dll
+/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1415 - OOP Lab /Lab11-bank-simulation/bank-simulation/bin/Debug/net5.0/ref/bank-simulation.dll
+/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1415 - OOP Lab /Lab11-bank-simulation/bank-simulation/bin/Debug/net5.0/bank-simulation.pdb
+/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1415 - OOP Lab /Lab11-bank-simulation/bank-simulation/obj/Debug/net5.0/bank-simulation.csproj.AssemblyReference.cache
+/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1415 - OOP Lab /Lab11-bank-simulation/bank-simulation/obj/Debug/net5.0/bank-simulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1415 - OOP Lab /Lab11-bank-simulation/bank-simulation/obj/Debug/net5.0/bank-simulation.AssemblyInfoInputs.cache
+/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1415 - OOP Lab /Lab11-bank-simulation/bank-simulation/obj/Debug/net5.0/bank-simulation.AssemblyInfo.cs
+/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1415 - OOP Lab /Lab11-bank-simulation/bank-simulation/obj/Debug/net5.0/bank-simulation.csproj.CoreCompileInputs.cache
+/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1415 - OOP Lab /Lab11-bank-simulation/bank-simulation/obj/Debug/net5.0/bank-simulation.dll
+/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1415 - OOP Lab /Lab11-bank-simulation/bank-simulation/obj/Debug/net5.0/ref/bank-simulation.dll
+/Users/frammkormac2020/Desktop/main/Snow Materials/CS 1415 - OOP Lab /Lab11-bank-simulation/bank-simulation/obj/Debug/net5.0/bank-simulation.pdb
